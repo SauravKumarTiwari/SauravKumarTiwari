@@ -1,3 +1,4 @@
+![logo](https://github.com/SauravKumarTiwari/SauravKumarTiwari/blob/main/Green%20and%20Brown%20Simple%20%20Welcome%20New%20Student%20Classroom%20Baner.png)
 <h1 align="center">Hi 👋, I'm Saurav Tiwari</h1>
 <h3 align="center">Dedicated Ericsson professional with 2 years in PCRF/SAPC. Proficient in managing policy and charging functions, optimizing network performance. Actively learning Cloud and DevOps, driven by a passion for innovation.</h3>
 
